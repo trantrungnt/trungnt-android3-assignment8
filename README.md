@@ -2,6 +2,8 @@
 ##Yêu cầu
 + [Xây dựng ứng dụng Nhận/Gửi tin nhắn: chuyển từ bài Assigment số 7 sang cách sử dụng Fragment](https://github.com/trantrungnt/trungnt-android3-assignment7)
 + Sử dụng Fragment để hiển thị gioa diện Danh sách Tin nhắn và Chi tiết 1 tin nhắn (2 Fragment frgListSMS và frgDetailSMS cùng nằm trong 1 vùng chứa Fragment => Khi click vào 1 tin nhắn thì chỉ có phần List SMS thay đổi sang giao diện frgDetailSMS; còn Action Bar giữ nguyên không đổi)
++ Sửa lại các class cho dễ hiểu và dễ sủ dụng, hợp lý hơn 
+![Gợi ý của em Hùng](http://i477.photobucket.com/albums/rr132/trungepu/goi_y_btvn_sms_zps7bistgoy.jpg)
 
 ##Kiến thức sử dụng
 + Fragment là 1 mảnh nhỏ trong giao diện Android (nó cũng tương tự như 1 Activity nhưng chỉ là 1 mảnh nhỏ)
